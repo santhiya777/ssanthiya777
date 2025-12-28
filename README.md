@@ -14,11 +14,11 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-I'm an <b>AI & Machine Learning student</b> who loves building real-world projects using ML, Java, and Web technologies.<br><br>
-- 🔭 Working on <b>AI-driven Machine Learning projects</b><br>
+I'm an <b>AI & Machine Learning student</b> who enjoys building real-world projects using ML, Java, and Web technologies.<br><br>
+- 🔭 Working on <b>AI-driven Machine Learning & Web projects</b><br>
 - 🌱 Learning <b>Machine Learning, Artificial Intelligence, Java Full Stack & DSA (Interview-focused)</b><br>
 - 👯 Looking to collaborate on <b>Beginner-friendly ML & Open Source projects</b><br>
-- 🤝 Seeking help with <b>ML model deployment & frontend–backend integration</b><br>
+- 🤝 Looking for help with <b>ML model deployment & frontend–backend integration</b><br>
 - ⚡ Fun fact: I learn more by building projects than watching tutorials
 </p>
 
@@ -27,9 +27,41 @@ I'm an <b>AI & Machine Learning student</b> who loves building real-world projec
 ## 🚀 Currently Building
 
 <p align="center">
+
 🏠 <b>House Price Prediction System</b><br>
-Machine Learning • Python • Flask • Web Integration<br><br>
+Machine Learning • Python • Flask • Web Integration  
 👉 <a href="https://github.com/santhiya777/House-Price-Prediction">View Project</a>
+
+<br><br>
+
+🎗 <b>Breast Cancer Detection System</b><br>
+Machine Learning • Classification • Data Analysis  
+👉 <a href="https://github.com/santhiya777">Repository</a>
+
+<br><br>
+
+🎬 <b>Movie Recommendation System</b><br>
+ML • Content-Based Filtering • Python  
+👉 <a href="https://github.com/santhiya777">Repository</a>
+
+<br><br>
+
+🧠 <b>Smart Emergency Response System</b><br>
+AI-Based Severity Scoring • Real-Time Tracking  
+👉 <a href="https://github.com/santhiya777">Repository</a>
+
+<br><br>
+
+👁 <b>Face Recognition System</b><br>
+OpenCV • Computer Vision • Python  
+👉 <a href="https://github.com/santhiya777">Repository</a>
+
+<br><br>
+
+📚 <b>DSA Practice & Java Problem Solving</b><br>
+Arrays • Strings • Recursion • Interview Preparation  
+👉 <a href="https://github.com/santhiya777">Repository</a>
+
 </p>
 
 ---
