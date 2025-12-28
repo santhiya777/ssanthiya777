@@ -2,13 +2,11 @@
 <h3 align="center">A passionate AI / ML Engineer from India 🇮🇳</h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=santhiya777&theme=onedark" alt="santhiya777" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=santhiya777&theme=onedark&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -16,38 +14,37 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-I'm an <b>AI & Machine Learning student</b> who enjoys building real-world projects using ML, Java, and Web technologies.<br><br>
-- 🔭 Currently working on <b>AI-driven Machine Learning projects</b><br>
+I'm an <b>AI & Machine Learning student</b> who loves building real-world projects using ML, Java, and Web technologies.<br><br>
+- 🔭 Working on <b>AI-driven Machine Learning projects</b><br>
 - 🌱 Learning <b>Machine Learning, Artificial Intelligence, Java Full Stack & DSA (Interview-focused)</b><br>
-- 👯 Looking to collaborate on <b>Beginner-friendly ML & Open-Source projects</b><br>
-- 🤝 Looking for help with <b>ML model deployment & frontend–backend integration</b><br>
-- ⚡ Fun fact: I learn faster by building projects than watching tutorials
+- 👯 Looking to collaborate on <b>Beginner-friendly ML & Open Source projects</b><br>
+- 🤝 Seeking help with <b>ML model deployment & frontend–backend integration</b><br>
+- ⚡ Fun fact: I learn more by building projects than watching tutorials
 </p>
 
 ---
 
-## 🔭 I’m currently working on
-- 🏠 **House Price Prediction System (ML + Web)**  
-  👉 https://github.com/santhiya777/House-Price-Prediction
+## 🚀 Currently Building
+
+<p align="center">
+🏠 <b>House Price Prediction System</b><br>
+Machine Learning • Python • Flask • Web Integration<br><br>
+👉 <a href="https://github.com/santhiya777/House-Price-Prediction">View Project</a>
+</p>
 
 ---
 
-## 💬 Ask me about
-**Java, Python, Machine Learning projects, AI basics, DSA, Web Development**
+## 💬 Ask Me About
+**Java • Python • Machine Learning • AI Basics • DSA • Web Development**
 
 ---
 
-## 📫 How to reach me
-📧 **Email:** santhiyapponnusamy@gmail.com  
+## 📫 How to Reach Me
+📧 **Email:** santhiyapponnusamy@gmail.com
 
 ---
 
-## 👨‍💻 All of my projects
-👉 **GitHub:** https://github.com/santhiya777  
-
----
-
-## 🌐 Connect with me
+## 🌐 Connect With Me
 <p align="left">
 <a href="https://www.codechef.com/users/santhiyakaveri" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
@@ -83,16 +80,25 @@ I'm an <b>AI & Machine Learning student</b> who enjoys building real-world proje
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=santhiya777&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=santhiya777&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=santhiya777&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santhiya777&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=santhiya777&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=santhiya777&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santhiya777/santhiya777/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -106,3 +112,7 @@ I'm an <b>AI & Machine Learning student</b> who enjoys building real-world proje
   <img src="https://img.shields.io/badge/YouTube-coming%20soon-red?style=for-the-badge&logo=youtube"/>
   <img src="https://img.shields.io/badge/Twitter-coming%20soon-skyblue?style=for-the-badge&logo=twitter"/>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
